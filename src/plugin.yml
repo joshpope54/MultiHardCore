@@ -1,0 +1,4 @@
+name: MultiHardCore
+main: dev.joshpope.multihardcore.MultiHardCore
+version: 0.0.1
+description: Multiple lives in hardcore mode
